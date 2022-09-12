@@ -4,16 +4,16 @@ I have a passion for backend and system development with a high level of perform
 
 ---
 
-### The tech stack I'm used to
+### 🛠 The tech stack I'm used to
 
-#### Languages
+- #### Languages ⚙️
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-9f2c00?style=flat-square&logo=rust&logoColor=white)
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-29BEB0?&logo=go&style=flat-square&logoColor=white)
 
-#### Frameworks/Platforms
+- #### Frameworks/Platforms 🚲
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![NestJs](https://img.shields.io/badge/-NestJs-E0234E?&logo=nestjs&style=flat-square&logoColor=white)
@@ -23,13 +23,13 @@ I have a passion for backend and system development with a high level of perform
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 
-#### Databases
+- #### Databases 💽
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 
-#### Tools
+- #### Tools 🏗
 
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?&logo=docker&style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
