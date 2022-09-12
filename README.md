@@ -9,13 +9,15 @@ My name is Nikita Rehemäe....
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-29BEB0?&logo=go&style=flat-square&logoColor=white)
 
-#### Frameworks
+#### Frameworks/Platforms
 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![NestJs](https://img.shields.io/badge/-NestJs-E0234E?&logo=nestjs&style=flat-square&logoColor=white)
 ![Asp.Net Core](<https://img.shields.io/badge/-Asp.Net Core-5C2D91?&logo=.net&style=flat-square>)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 
 #### Databases
 
