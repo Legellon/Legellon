@@ -1,4 +1,4 @@
-Software Engineering Student currently.
+*Software Engineering Student ***currently***.*
 
 I have a passion for backend and system development with a high level of performance, actively learning something in this scope.
 
