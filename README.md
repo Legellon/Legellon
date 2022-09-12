@@ -6,16 +6,16 @@ I have a passion for backend and system development with a high level of perform
 
 ### ⚙️ The tech stack I'm used to
 
-- #### Languages 🛠
+- #### Languages/Platforms 🛠
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-9f2c00?style=flat-square&logo=rust&logoColor=white)
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-29BEB0?&logo=go&style=flat-square&logoColor=white)
 
-- #### Frameworks/Platforms 🚲
+- #### Frameworks 🚲
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![NestJs](https://img.shields.io/badge/-NestJs-E0234E?&logo=nestjs&style=flat-square&logoColor=white)
 ![Asp.Net Core](<https://img.shields.io/badge/-Asp.Net Core-5C2D91?&logo=.net&style=flat-square>)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
