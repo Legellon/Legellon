@@ -2,7 +2,7 @@
 
 My name is Nikita Rehemäe....
 
-### I'm used to and usually work with
+### I'm used to and usually work with:
 
 #### Languages
 
