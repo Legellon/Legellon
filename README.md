@@ -1,5 +1,3 @@
-## About myself
-
 My name is Nikita Rehemäe....
 
 ### I'm used to and usually work with:
@@ -8,6 +6,7 @@ My name is Nikita Rehemäe....
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-9f2c00?style=flat-square&logo=rust&logoColor=white)
+![Csharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-29BEB0?&logo=go&style=flat-square&logoColor=white)
 
 #### Frameworks
@@ -31,6 +30,7 @@ My name is Nikita Rehemäe....
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
 ![Clion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=Rider&logoColor=white)
 
 ## Widgets
 
