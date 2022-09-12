@@ -35,7 +35,3 @@ I have a passion for backend and system development with a high level of perform
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
 ![Clion](https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=flat-square&logo=Rider&logoColor=white)
-
-## Widgets
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=espritdecorpss&show_icons=true&theme=nord)
