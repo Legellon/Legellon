@@ -1,12 +1,12 @@
-*Software Engineering Student ***currently***.*
+*Software Engineering Student at [Tallinn Polytechnic School](https://www.tptlive.ee/) currently.*
 
-I have a passion for backend and system development with a high level of performance, actively learning something in this scope.
+I've a passion for backend and system development with a high level of performance, actively learning something in this scope.
 
 ---
 
-### ⚙️ The tech stack I'm used to
+### The tech stack I'm used to
 
-- #### Languages/Platforms 🛠
+- #### Languages/Platforms ⚙️
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
