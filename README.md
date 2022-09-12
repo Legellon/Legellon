@@ -2,8 +2,6 @@ My name is Nikita Rehemäe...
 
 I have a passion for backend and system development with a high level of performance, actively learning something in this scope.
 
-### I'm used to and usually work with:
-
 #### Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
