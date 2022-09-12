@@ -1,6 +1,6 @@
 My name is Nikita Rehemäe...
 
-I have a passion for backend and system development with a high level of performance, actively learning something in these scopes.
+I have a passion for backend and system development with a high level of performance, actively learning something in this scope.
 
 ### I'm used to and usually work with:
 
