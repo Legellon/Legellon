@@ -4,9 +4,9 @@ I have a passion for backend and system development with a high level of perform
 
 ---
 
-### 🛠 The tech stack I'm used to
+### ⚙️ The tech stack I'm used to
 
-- #### Languages ⚙️
+- #### Languages 🛠
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-9f2c00?style=flat-square&logo=rust&logoColor=white)
