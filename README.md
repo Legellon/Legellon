@@ -1,4 +1,6 @@
-My name is Nikita Rehemäe....
+My name is Nikita Rehemäe...
+
+I have a passion for backend and system development with a high level of performance, actively learning something in these scopes.
 
 ### I'm used to and usually work with:
 
