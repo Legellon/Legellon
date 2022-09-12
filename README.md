@@ -29,7 +29,7 @@ I have a passion for backend and system development with a high level of perform
 
 #### Tools
 
-![Docker](https://img.shields.io/badge/-Docker-384d54?&logo=docker&style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?&logo=docker&style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white)
