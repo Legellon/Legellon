@@ -1,4 +1,4 @@
-My name is Nikita Rehemäe.
+Software Engineering Student currently.
 
 I have a passion for backend and system development with a high level of performance, actively learning something in this scope.
 
