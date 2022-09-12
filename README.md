@@ -38,8 +38,4 @@ I have a passion for backend and system development with a high level of perform
 
 ## Widgets
 
-<img align="right" 
-     height="195"
-     src="no-internet-full.gif" />
-     
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=espritdecorpss&show_icons=true&theme=nord)
