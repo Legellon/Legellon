@@ -8,10 +8,10 @@ I've a passion for backend and system development with a high level of performan
 
 - #### Languages/Platforms ⚙️
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-9f2c00?style=flat-square&logo=rust&logoColor=white)
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-29BEB0?&logo=go&style=flat-square&logoColor=white)
 
 - #### Frameworks 🚲
