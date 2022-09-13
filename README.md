@@ -1,6 +1,6 @@
 *Software Engineering Student at [Tallinn Polytechnic School](https://www.tptlive.ee/) currently.*
 
-I've a passion for backend and system development with a high level of performance, actively learning something in this scope.
+I've a passion for backend and system development with a high level of performance, actively learning in this scope.
 
 ---
 
