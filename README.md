@@ -1,10 +1,10 @@
-*Software Engineering Student at [Tallinn Polytechnic School](https://www.tptlive.ee/) currently.*
+Interested in backend, graphics/rendering, game engines and system programming.
 
-I'm interested in backend and system development with a high level of performance, actively learning in this scope.
+I enjoy Rust language.
 
 ---
 
-### The tech stack I'm used to
+### Tech stack I'm used to the most
 
 - #### Languages/Platforms ⚙️
 
@@ -16,7 +16,6 @@ I'm interested in backend and system development with a high level of performanc
 - #### Frameworks 🚲
 
 ![Asp.Net](<https://img.shields.io/badge/-Asp.Net-5C2D91?&logo=.net&style=flat-square>)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 - #### Databases 💽
