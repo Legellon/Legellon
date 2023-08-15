@@ -1,26 +1,18 @@
 Interested in backend, graphics/rendering, game engines and system programming.
 
-I enjoy Rust language.
-
 ---
 
-### Tech stack I'm used to the most
+- #### Languages ⚙️
 
-- #### Languages/Platforms ⚙️
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-9f2c00?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-- #### Frameworks 🚲
-
-![Asp.Net](<https://img.shields.io/badge/-Asp.Net-5C2D91?&logo=.net&style=flat-square>)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 - #### Databases 💽
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 
 - #### Tools 🏗
